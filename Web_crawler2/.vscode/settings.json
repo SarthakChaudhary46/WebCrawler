@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\DELL\\Desktop\\p3\\jsoup-1.15.3.jar",
+        "javax.mail.jar",
+        "javax.util.property-2_0.jar"
+    ]
+}

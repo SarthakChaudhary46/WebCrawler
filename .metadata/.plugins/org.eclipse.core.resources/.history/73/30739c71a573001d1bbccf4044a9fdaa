@@ -1,0 +1,10 @@
+package web_crawler;
+
+public class crawler {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
